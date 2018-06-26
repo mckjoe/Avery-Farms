@@ -1,8 +1,8 @@
 import React from 'react'
-
+import SellingLocationList from './SellingLocationList'
 function Body(){
   return(
-    <h1>Farmer's Market Circuit</h1>
+    <SellingLocationList />
   )
 }
 
